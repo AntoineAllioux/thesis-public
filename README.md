@@ -1,5 +1,7 @@
 # Higher Structures in Homotopy Type Theory
 
+This repository contains an up-to-date version of my PhD thesis.
+
 ## Abstract
 
 The definition of algebraic structures on arbitrary types in homotopy type theory (HoTT)
@@ -27,4 +29,4 @@ establish some expected results in order to motivate our definitions.
 
 ## Notes
 
-This is a preliminary version of my PhD thesis missing the acknowledgements
+This is a preliminary version of my PhD thesis missing the acknowledgements.
