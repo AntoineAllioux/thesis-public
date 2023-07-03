@@ -10,6 +10,10 @@ In this thesis, we break this circularity by extending type theory with a univer
 
 Opetopic types then enable us to define coherent higher algebraic structures, among which infinity-groupoids and (infinity, 1)-categories. Crucially, their higher structure is univalent in that it coincides with the one induced by their identity types. We then establish some expected results in order to motivate our definitions.
 
+## Formalisation
+
+Most of the results of this thesis have been formalised in the Agda proof assistant and are available at https://github.com/AntoineAllioux/thesis-formalisation.
+
 ## Notes
 
 This is a preliminary version of my PhD thesis missing the acknowledgements.
