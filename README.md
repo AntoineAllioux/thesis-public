@@ -8,7 +8,7 @@ The definition of algebraic structures on arbitrary types in homotopy type theor
 
 In this thesis, we break this circularity by extending type theory with a universe of cartesian polynomial monads which, crucially, satisfy their laws definitionally. This extension permits the presentation of types and their higher structures as opetopic types which are infinite collections of cells whose geometry is described by opetopes. Opetopes are geometric shapes originally introduced by Baez and Dolan in order to give a definition of n-categories. The constructors under which our universe of cartesian polynomial monads is closed allow us to define, in particular, the Baez-Dolan slice construction on which is based our definition of opetopic type.
 
-Opetopic types then enable us to define coherent higher algebraic structures, among which infinity-groupoids and (infinity, 1)-categories. Crucially, their higher structure is univalent in that it coincides with the one induced by their identity types. We then establish some expected results in order to motivate our definitions.
+Opetopic types then enable us to define coherent higher algebraic structures, among which infinity-groupoids and (infinity, 1)-categories. Crucially, their higher structure coincides with the one induced by their identity types. We then establish some expected results in order to motivate our definitions.
 
 ## Formalisation
 
