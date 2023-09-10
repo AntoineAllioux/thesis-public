@@ -13,7 +13,3 @@ Opetopic types then enable us to define coherent higher algebraic structures, am
 ## Formalisation
 
 Most of the results of this thesis have been formalised in the Agda proof assistant and are available at https://github.com/allioux/thesis-formalisation.
-
-## Notes
-
-This is a preliminary version of my PhD thesis missing the acknowledgements.
